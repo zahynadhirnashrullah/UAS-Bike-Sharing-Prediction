@@ -63,7 +63,6 @@ Proyek ini bertujuan untuk memprediksi jumlah total penyewaan sepeda (*cnt*) ber
 
 ---
 ## 📁 Struktur Folder
-```text
 project/
 │
 ├── data/                   # Dataset
@@ -154,6 +153,5 @@ Berikut adalah langkah-langkah untuk menjalankan proyek ini di komputer lokal:
 
 ### 1. Clone Repository
 Unduh kode sumber proyek ini ke komputer Anda:
-```bash
-git clone [MASUKKAN LINK GITHUB ANDA DI SINI]
+git clone [https://github.com/zahynadhirnashrullah/UAS-Bike-Sharing-Prediction.git]
 cd [NAMA FOLDER REPO]
