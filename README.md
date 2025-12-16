@@ -63,6 +63,7 @@ Proyek ini bertujuan untuk memprediksi jumlah total penyewaan sepeda (*cnt*) ber
 
 ---
 ## 📁 Struktur Folder
+```text
 project/
 │
 ├── data/                   # Dataset
@@ -84,6 +85,8 @@ project/
 ├── requirements.txt        # Dependencies library Python
 ├── .gitignore              # File yang diabaikan git
 └── README.md               # Dokumentasi Proyek
+
+```
 
 # 3. 📊 Dataset
 - **Sumber:** UCI Machine Learning Repository - Bike Sharing Dataset
@@ -153,5 +156,6 @@ Berikut adalah langkah-langkah untuk menjalankan proyek ini di komputer lokal:
 
 ### 1. Clone Repository
 Unduh kode sumber proyek ini ke komputer Anda:
-git clone [https://github.com/zahynadhirnashrullah/UAS-Bike-Sharing-Prediction.git]
+```bash
+git clone [MASUKKAN LINK GITHUB ANDA DI SINI]
 cd [NAMA FOLDER REPO]
