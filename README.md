@@ -30,38 +30,6 @@ Proyek ini bertujuan untuk memprediksi jumlah total penyewaan sepeda (*cnt*) ber
 - Membandingkan performa antara model Statistik Konvensional, Machine Learning, dan Deep Learning.
 
 ---
-
-## 📁 Struktur Folder
-# 📘 Prediksi Jumlah Penyewaan Sepeda (Bike Sharing Prediction)
-*Proyek Analisis & Prediksi Permintaan Sepeda Menggunakan Machine Learning*
-
-## 👤 Informasi
-- **Nama:** [ISI NAMA ANDA]
-- **Repo:** [ISI LINK GITHUB ANDA]
-- **Video:** [ISI LINK VIDEO ANDA]
-
----
-
-# 1. 🎯 Ringkasan Proyek
-Proyek ini bertujuan untuk memprediksi jumlah total penyewaan sepeda (*cnt*) berdasarkan faktor lingkungan dan waktu. Proyek ini mencakup end-to-end data science lifecycle mulai dari pembersihan data hingga evaluasi model.
-
-- Menyelesaikan permasalahan prediksi permintaan (*demand forecasting*) pada sistem Bike Sharing.
-- Melakukan data preparation (Cleaning, Scaling, Splitting).
-- Membangun 3 model eksperimen: **Linear Regression (Baseline)**, **Random Forest (Advanced ML)**, dan **Deep Learning (MLP)**.
-- Melakukan evaluasi menggunakan metrik MAE & RMSE untuk menentukan model terbaik.
-
----
-
-# 2. 📄 Problem & Goals
-**Problem Statements:**
-- Bagaimana memprediksi jumlah penyewaan sepeda secara akurat untuk menghindari kekurangan/kelebihan stok di stasiun?
-- Faktor cuaca (suhu, kelembaban) dan waktu (jam, musim) apa yang paling mempengaruhi jumlah penyewaan?
-
-**Goals:**
-- Membangun model regresi yang mampu memprediksi jumlah penyewaan sepeda dengan error seminimal mungkin.
-- Membandingkan performa antara model Statistik Konvensional, Machine Learning, dan Deep Learning.
-
----
 ## 📁 Struktur Folder
 ```text
 project/
